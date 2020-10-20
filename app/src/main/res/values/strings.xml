@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Integration</string>
+    <string name="facebook_app_id">1688995991257888</string>
+    <string name="fb_login_protocol_scheme">fb1688995991257888</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+</resources>
